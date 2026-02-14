@@ -1,0 +1,29 @@
+Hello World
+300
+6
+6
+I have 5 and 12 plants
+Unhealthy ratio
+50
+Got fish!
+Got fish
+null
+5
+[mackerel, trout, halibut]
+[tuna, salmon]
+[shark, salmon, minnow]
+3
+[Atlantic, Pacific]
+[[I@eed1f14, [Atlantic, Pacific], salmon]
+[0, 3, 6, 9, 12]
+shark salmon minnow Items at 0 is shark
+Items at 1 is salmon
+Items at 2 is minnow
+123455432135defg50 bubbles in the water
+
+49 bubbles in the water
+
+A fish is swimming
+A fish is swimming
+
+=== Code Execution Successful ===
