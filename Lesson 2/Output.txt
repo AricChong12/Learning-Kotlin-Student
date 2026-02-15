@@ -1,0 +1,38 @@
+Hello World
+Hello, Kotlin
+This is an expression
+kotlin.Unit
+false
+The water temperature is OK
+Today is Tuesday and the fish eat nothing
+Change water: false
+swimming fast
+swimming slow
+swimming turtle-like
+[pagoda, plastic plant]
+eager: [pagoda, plastic plant]
+filtered: kotlin.sequences.FilteringSequence@7cd84586
+new list: [pagoda, plastic plant]
+lazy: kotlin.sequences.TransformingSequence@6f539caf
+-----
+access: rock
+first: rock
+-----
+access: rock
+access: pagoda
+access: plastic plant
+access: alligator
+access: flowerpot
+all: [rock, pagoda, plastic plant, alligator, flowerpot]
+-----
+access: pagoda
+access: plastic plant
+filtered: [pagoda, plastic plant]
+-----
+Flat: [basketball, fishing, running, LeBron James, Ernest Hemingway, Usain Bolt, Los Angeles, Chicago, Jamaica]
+10
+15
+16
+42
+
+=== Code Execution Successful ===
