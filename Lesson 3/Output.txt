@@ -1,0 +1,104 @@
+aquarium initializing
+rectangle
+Width: 20 cm Height: 40 cm Length: 100 cm 
+Volume: 80 liters Water: 72.0 liters (90.0% full)
+aquarium initializing
+rectangle
+Width: 25 cm Height: 40 cm Length: 100 cm 
+Volume: 100 liters Water: 90.0 liters (90.0% full)
+aquarium initializing
+rectangle
+Width: 20 cm Height: 35 cm Length: 110 cm 
+Volume: 77 liters Water: 69.3 liters (89.99999999999999% full)
+aquarium initializing
+rectangle
+Width: 25 cm Height: 35 cm Length: 110 cm 
+Volume: 96 liters Water: 86.4 liters (90.0% full)
+
+
+
+
+aquarium initializing
+rectangle
+Width: 25 cm Height: 40 cm Length: 25 cm 
+Volume: 25 liters Water: 22.5 liters (90.0% full)
+aquarium initializing
+cylinder
+Width: 25 cm Height: 40 cm Length: 25 cm 
+Volume: 18 liters Water: 14.4 liters (80.0% full)
+
+
+
+
+Shark: grey
+hunt and eat fish
+Plecostomus: gold
+eat algae or get eaten
+
+
+
+
+Decoration(rocks=granite)
+Decoration(rocks=slate)
+Decoration(rocks=slate)
+false
+true
+
+
+
+
+Decoration2(rocks=crystal, wood=wood, diver=diver)
+crystal
+wood
+diver
+
+
+
+
+EAST
+2
+90
+
+
+
+
+lyric
+My favorite pick
+My favorite selection
+
+
+
+
+fish net used for catching fish
+
+
+
+
+(6, 9, 42)
+[6, 9, 42]
+
+
+
+
+(fish net, catching fish) is equipment
+
+catching fish
+
+
+
+
+fish net is used for catching fish
+
+
+
+
+6 9 42
+13
+6
+a
+bbb
+cc
+poecilia reticulata
+sorry, I don't know
+
+Process finished with exit code 0
