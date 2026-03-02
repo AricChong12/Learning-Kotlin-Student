@@ -6,4 +6,11 @@ Learning Sources from Google (Pathway and Resources)
 2. https://developer.android.com/courses/android-development-with-kotlin/course?utm_source=dac&utm_medium=website&utm_campaign=edu
 
 
-Disclaimer: This respository is only used for personal archive and show my effort in learning android development, all rights reserved to Google
+Disclaimer: 
+
+
+This repository contains code from Google's Android Developer courses.
+The original code is licensed under the Apache License 2.0.
+This repository is used for personal learning and archival purposes.
+All original code belongs to Google and is reused under the terms of the Apache License 2.0.
+
